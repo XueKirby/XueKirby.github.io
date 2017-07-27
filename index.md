@@ -22,7 +22,7 @@ Xposed 2群 | [161155167](https://jq.qq.com/?_wv=1027&k=4ExWzmx) | 2016年03月2
 
 View [history](history.markdown)
 
-### 刷机建议教程
+### 刷机简易教程
 
 刷机挺有意思的2333
 你需要知道一些事情，就像是…刷机风险问题。
