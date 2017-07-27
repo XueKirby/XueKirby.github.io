@@ -10,11 +10,11 @@ Sometimes we may not use LTE in the phone uses a new custom ROM. The problem com
 
 ###捐助我
 >QQ援助
-![QQ援助](QQ.png)
+![QQ援助](images/QQ.png)
 >支付宝援助
-![支付宝援助]（Alipay.jpg)
+![支付宝援助]（images/Alipay.jpg)
 >微信援助
-![微信援助](WeChat.png)
+![微信援助](images/WeChat.png)
 
 ###用咕咕机联系我
-![联系我](contact.png)
+![联系我](images/contact.png)
