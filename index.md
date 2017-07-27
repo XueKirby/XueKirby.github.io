@@ -1,7 +1,7 @@
 ## Welcome to XueKirby Page
 
 这里是一些精髓的发源地2333
-![加入Xposed交流群](images/qun.png)
+![加入Xposed交流群](images/qun.jpg)
 XueKirby QQ:3211389002
 
 ### 每日一翻
