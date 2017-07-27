@@ -1,3 +1,7 @@
+<head>
+ <title>XueKirby's Page</title>
+ <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+</head>
 ## Welcome to XueKirby's Page
 
 *刚刚开始建设，请大家加入**Xposed 2群**或者**加我QQ***
