@@ -12,4 +12,5 @@ XueKirby QQ:3211389002
 进入援助页面———[援助我](donate.markdown)
 
 ### 用咕咕机联系我
+直接点击[链接](http://w.memobird.cn/cn/share/ShareIndex.aspx?guid=5e77f19a592e45628acb460c26db75ba&shareType=0)或者手机扫描二维码
 ![联系我](images/Contact.png)
