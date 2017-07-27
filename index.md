@@ -1,7 +1,9 @@
 ## Welcome to XueKirby's Page
 
 *刚刚开始建设，请大家加入**Xposed 2群**或者**加我QQ***
-欢迎大家来热聊！
+
+#### 欢迎大家来热聊！
+
 ![加入Xposed交流群](images/qun.jpg)
 XueKirby QQ:3211389002
 #### 群所有号如下
@@ -10,7 +12,7 @@ QQ群名称 | 群号 | 建群时间
 --- | --- | ---
 Magisk交流讨论 | [592080683](https://jq.qq.com/?_wv=1027&k=4EljkS2) | 2016年10月07日
 Xposed 1群 | [543028862](https://jq.qq.com/?_wv=1027&k=4CVDmc0) | 2016年02月19日
-Xposed 2群 | | [161155167](https://jq.qq.com/?_wv=1027&k=4ExWzmx) | 2016年03月26日
+Xposed 2群 | [161155167](https://jq.qq.com/?_wv=1027&k=4ExWzmx) | 2016年03月26日
 
 此外…我的百度云地址，[点击访问](http://pan.baidu.com/share/link?shareid=3185112584&uk=252246327)
 
