@@ -22,7 +22,8 @@ Xposed 2群 | [161155167](https://jq.qq.com/?_wv=1027&k=4ExWzmx) | 2016年03月2
 
 ### 每日一翻
 
-#### Google assistant is a perfect intelligent voice assist. It can run on any devices running Android 7.0+. Yet many people may be enslaved to the new versions of Android that cannot use Xposed well. The way to solve it is to use Magisk modules or to edit the build.prop in /system. I will tell you how to install Magisk modules. First of all, you should download Magisk manager from XDA. Then you will be told to install the latest version of Magisk. After the installation, you should reboot. After that, open Magisk manager and open the drawer from the left side. You can see "Download" in it. Find the Google Assistant enabler and install it. After rebooting, you can use Google Assistant happily.
+#### 用网络adb打开黒域
+#### Brevent is an APP that can limit the background progress of any other APPs even system APPs. Someone may grumble that ADB is too troublesome to use. And we should use it once more after rebooting. Some people think we must use our phones connect with computers to Android Debug, and data lines are not always easy to find. In reality, they are wrong. We can use network ADB or just use a terminal skillfully. Let's talk about network ADB, which we can find it easily in the developer options from settings. Just open it and launch ADB in our computer and then type in "adb connect xxx"(xxx means what we saw when the network ADB turned on, just an IP address with port)(we don't need to insert the port":5555") and then click "enter". Execute the command as before.
 
 View [history](history.markdown)
 
