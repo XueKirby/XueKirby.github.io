@@ -7,7 +7,14 @@
 -------
 -------
 
-### ~~每日一翻(stopped) ~~
+## 入侵教学
+### 来这里
+#### [Here We Go]（Hack.md)
+### 获取好友IP地址（待添加）
+
+-------
+
+### ~~每日一翻(stopped)~~
 
 #### 用网络adb打开黒域
 #### Brevent is an APP that can limit the background progress of any other APPs even system APPs. Someone may grumble that ADB is too troublesome to use. And we should use it once more after rebooting. Some people think we must use our phones connect with computers to Android Debug, and data lines are not always easy to find. In reality, they are wrong. We can use network ADB or just use a terminal skillfully. Let's talk about network ADB, which we can find it easily in the developer options from settings. Just open it and launch ADB in our computer and then type in "adb connect xxx"(xxx means what we saw when the network ADB turned on, just an IP address with port)(we don't need to insert the port":5555") and then click "enter". Execute the command as before.
