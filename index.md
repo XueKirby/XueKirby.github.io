@@ -1,31 +1,20 @@
-<head>
- <title>XueKirby's Page</title>
- <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
-</head>
-## Welcome to XueKirby's Page
+# Welcome to XueKirby's Page
 
-*刚刚开始建设，请大家加入**Xposed 2群**或者**加我QQ***
+### 此网页提供计算机/手机方面的支持！
 
-#### 欢迎大家来热聊！
+我的百度云地址，[点击访问](http://pan.baidu.com/share/link?shareid=3185112584&uk=252246327)。渗透材料等在网盘内。
 
-![加入Xposed交流群](images/qun.jpg)
-XueKirby QQ:3211389002
-#### 所有群号如下
+-------
+-------
 
-QQ群名称 | 群号 | 建群时间
---- | --- | ---
-Magisk交流讨论 | [592080683](https://jq.qq.com/?_wv=1027&k=4EljkS2) | 2016年10月07日
-Xposed 1群 | [543028862](https://jq.qq.com/?_wv=1027&k=4CVDmc0) | 2016年02月19日
-Xposed 2群 | [161155167](https://jq.qq.com/?_wv=1027&k=4ExWzmx) | 2016年03月26日
-
-此外…我的百度云地址，[点击访问](http://pan.baidu.com/share/link?shareid=3185112584&uk=252246327)
-
-### 每日一翻
+### ~~每日一翻(stopped) ~~
 
 #### 用网络adb打开黒域
 #### Brevent is an APP that can limit the background progress of any other APPs even system APPs. Someone may grumble that ADB is too troublesome to use. And we should use it once more after rebooting. Some people think we must use our phones connect with computers to Android Debug, and data lines are not always easy to find. In reality, they are wrong. We can use network ADB or just use a terminal skillfully. Let's talk about network ADB, which we can find it easily in the developer options from settings. Just open it and launch ADB in our computer and then type in "adb connect xxx"(xxx means what we saw when the network ADB turned on, just an IP address with port)(we don't need to insert the port":5555") and then click "enter". Execute the command as before.
 
 View [history](history.markdown)
+
+-------
 
 ### 刷机简易教程
 
@@ -50,11 +39,22 @@ View [history](history.markdown)
 adb sideload xxx.zip
 ```
 
----
+-------
+-------
+# 联系方式等
+
+### 欢迎对Xposed框架感兴趣的朋友们来热聊！
+
+![加入Xposed交流群](images/qun.jpg)
+XueKirby QQ:[3211389002](http://qm.qq.com/cgi-bin/qm/qr?k=-fCOJh38kn-kEwEqm9QsYML0edxcxnJD)
+### 所有群号如下
+
+QQ群名称 | 群号 | 建群时间
+--- | --- | ---
+Magisk交流讨论 | [592080683](https://jq.qq.com/?_wv=1027&k=4EljkS2) | 2016年10月07日
+Xposed 1群 | [543028862](https://jq.qq.com/?_wv=1027&k=4CVDmc0) | 2016年02月19日
+Xposed 2群 | [161155167](https://jq.qq.com/?_wv=1027&k=4ExWzmx) | 2016年03月26日
 
 ### 捐助我
 进入援助页面———[援助我](donate.markdown)
-
-### 用咕咕机联系我
-直接点击[链接](http://w.memobird.cn/cn/share/ShareIndex.aspx?guid=5e77f19a592e45628acb460c26db75ba&shareType=0)或者手机扫描二维码
-![联系我](images/Contact.png)
+-------
