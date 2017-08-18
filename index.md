@@ -13,7 +13,7 @@
 
 ## 获取好友IP地址
 ### 这里
-#### [Here we go](xuekirby.top)
+#### [Here we go](http://xuekirby.top/)
 
 
 -------
