@@ -10,7 +10,11 @@
 ## 入侵教学
 ### 来这里
 #### [Here We Go](Hack.md)
-### 获取好友IP地址（待添加）
+
+## 获取好友IP地址
+### 这里
+#### [Here we go](xuekirby.top)
+
 
 -------
 
